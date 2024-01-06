@@ -57,7 +57,7 @@ class FamilyMembersPage extends StatelessWidget {
     ItemModel(
       sound: 'sounds/family_members/mother.wav',
       jpName: 'Kyū',
-      enName: 'nine',
+      enName: 'Mother',
       image: 'assets/images/family_members/family_mother.png',
     ),
     ItemModel(
